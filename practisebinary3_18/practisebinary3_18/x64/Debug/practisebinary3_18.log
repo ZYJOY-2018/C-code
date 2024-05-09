@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\2023winter class\xue\practisebinary3_18\practisebinary3_18\test.c(142,29): warning C4013: “pow”未定义；假设外部返回 int
+D:\code\2023winter class\xue\practisebinary3_18\practisebinary3_18\test.c(18): warning C4716: “number_of_1”: 必须返回一个值
+  practisebinary3_18.vcxproj -> D:\code\2023winter class\xue\practisebinary3_18\x64\Debug\practisebinary3_18.exe
